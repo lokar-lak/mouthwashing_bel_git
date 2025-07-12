@@ -1,0 +1,123 @@
+{
+    "array": [
+        {
+            "key": "english",
+            "value": {
+                "Identifier": "english",
+                "DisplayName": "English"
+            }
+        },
+        {
+            "key": "japanese",
+            "value": {
+                "Identifier": "japanese",
+                "DisplayName": "日本語"
+            }
+        },
+        {
+            "key": "schinese",
+            "value": {
+                "Identifier": "schinese",
+                "DisplayName": "简体中文"
+            }
+        },
+        {
+            "key": "polish",
+            "value": {
+                "Identifier": "polish",
+                "DisplayName": "Polski"
+            }
+        },
+        {
+            "key": "brazilian",
+            "value": {
+                "Identifier": "brazilian",
+                "DisplayName": "Português-Brasil"
+            }
+        },
+        {
+            "key": "latam",
+            "value": {
+                "Identifier": "latam",
+                "DisplayName": "Español-Latinoamérica"
+            }
+        },
+        {
+            "key": "russian",
+            "value": {
+                "Identifier": "russian",
+                "DisplayName": "Русский"
+            }
+        },
+        {
+            "key": "german",
+            "value": {
+                "Identifier": "german",
+                "DisplayName": "Deutsch"
+            }
+        },
+        {
+            "key": "french",
+            "value": {
+                "Identifier": "french",
+                "DisplayName": "Français"
+            }
+        },
+        {
+            "key": "spanish",
+            "value": {
+                "Identifier": "spanish",
+                "DisplayName": "Español-España"
+            }
+        },
+        {
+            "key": "portuguese",
+            "value": {
+                "Identifier": "portuguese",
+                "DisplayName": "Português"
+            }
+        },
+        {
+            "key": "turkish",
+            "value": {
+                "Identifier": "turkish",
+                "DisplayName": "Türkçe"
+            }
+        },
+        {
+            "key": "ukrainian",
+            "value": {
+                "Identifier": "ukrainian",
+                "DisplayName": "Українська"
+            }
+        },
+        {
+            "key": "belarusian",
+            "value": {
+                "Identifier": "belarusian",
+                "DisplayName": "Беларуская"
+            }
+        },
+        {
+            "key": "tchinese",
+            "value": {
+                "Identifier": "tchinese",
+                "DisplayName": "繁體中文"
+            }
+        },
+        {
+            "key": "koreana",
+            "value": {
+                "Identifier": "koreana",
+                "DisplayName": "한국어"
+            }
+        },
+        {
+            "key": "vietnamese",
+            "value": {
+                "Identifier": "vietnamese",
+                "DisplayName": "Tiếng Việt"
+            }
+        }
+    ]
+}
